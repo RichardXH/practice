@@ -1,10 +1,7 @@
- ## Hello Me
+## Hello Me
 This is the practice of git
 this is master branch
 
 let me learn something 
-<<<<<<< HEAD
-=======
 
 this is rebase test, this sentence should be rebase to master
->>>>>>>  update readme
