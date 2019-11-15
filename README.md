@@ -1,7 +1,7 @@
-## Hello Me
-This is the practice of git
-this is master branch
+## Practice
+This is repo for me to practice something, like git, python and others
 
-let me learn something 
+Notice: python code follow the project [Pyhotn-100-Days](https://github.com/jackfrued/Python-100-Days)
 
-this is rebase test, this sentence should be rebase to master
+#### Day1
+python function and module
